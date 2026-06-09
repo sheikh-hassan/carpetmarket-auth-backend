@@ -1,0 +1,6 @@
+django>=4.2
+djangorestframework>=3.14
+djangorestframework-simplejwt>=5.3
+google-auth-oauthlib>=1.0
+redis>=5.0
+django-redis>=5.4
